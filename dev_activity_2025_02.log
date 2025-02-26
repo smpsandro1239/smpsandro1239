@@ -47,3 +47,4 @@
 [2026-01-06 15:55:18] chore: ajustes de responsividade
 [2026-01-06 15:55:18] fix: melhorias de UX
 [2026-01-06 15:55:18] style: melhorias de UX
+[2026-01-06 15:55:19] perf: correção de memory leaks
