@@ -11,3 +11,4 @@
 [2026-01-06 15:55:22] test: melhorias na interface
 [2026-01-06 15:55:22] fix: implementação de cache
 [2026-01-06 15:55:22] perf: correção de memory leaks
+[2026-01-06 15:55:22] test: correção de erros de lógica
