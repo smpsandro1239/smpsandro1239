@@ -58,3 +58,4 @@
 [2026-01-06 15:55:30] docs: atualização de dependências
 [2026-01-06 15:55:30] chore: implementação de validações
 [2026-01-06 15:55:30] refactor: correção de bug crítico
+[2026-01-06 15:55:30] refactor: correção de memory leaks
