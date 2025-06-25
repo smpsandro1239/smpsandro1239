@@ -42,3 +42,4 @@
 [2026-01-06 15:57:01] feat: correção de memory leaks
 [2026-01-06 15:57:02] feat: melhorias de performance
 [2026-01-06 15:57:03] chore: melhorias na interface
+[2026-01-06 15:57:04] style: refatoração do módulo principal
