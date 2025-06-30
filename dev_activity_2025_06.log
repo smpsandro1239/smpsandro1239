@@ -52,3 +52,4 @@
 [2026-01-06 15:57:06] feat: implementação de cache
 [2026-01-06 15:57:07] fix: correção de memory leaks
 [2026-01-06 15:57:07] docs: correção de bug crítico
+[2026-01-06 15:57:07] fix: refatoração do módulo principal
