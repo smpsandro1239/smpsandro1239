@@ -29,3 +29,4 @@
 [2026-01-06 15:57:27] style: otimização de algoritmos
 [2026-01-06 15:57:27] style: refatoração do módulo principal
 [2026-01-06 15:57:27] feat: ajustes de acessibilidade
+[2026-01-06 15:57:28] perf: correção de memory leaks
