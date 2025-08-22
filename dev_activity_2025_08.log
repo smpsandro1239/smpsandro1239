@@ -39,3 +39,4 @@
 [2026-01-06 15:57:45] fix: atualização da documentação técnica
 [2026-01-06 15:57:46] docs: ajustes de acessibilidade
 [2026-01-06 15:57:46] refactor: ajustes de segurança
+[2026-01-06 15:57:46] refactor: correção de memory leaks
