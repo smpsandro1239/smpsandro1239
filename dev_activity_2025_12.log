@@ -8,3 +8,4 @@
 [2026-01-06 15:58:58] style: implementação de validações
 [2026-01-06 15:58:58] fix: ajustes de segurança
 [2026-01-06 15:58:58] style: implementação de nova feature
+[2026-01-06 15:58:58] refactor: correção de memory leaks
