@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cabeçalho Dinâmico de Engenharia - Design Futurista e Fluido -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20|%20Arquiteto%20DevOps%20|%20Formador%20TI&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20|%20Especialista%20em%20Arquitetura%20DevOps%20|%20Formador%20TI&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
 
   <p align="center">
     <b>Especialista em Ecossistemas Digitais | Formação Tecnológica | Arquitetura de Alto Desempenho</b>
@@ -21,7 +21,7 @@
 
 ### 🖋️ Manifesto de Engenharia & Formação
 
-Acredito que a excelência tecnológica nasce da interseção entre a arquitetura robusta e a partilha de conhecimento. Enquanto **Engenheiro de Software**, o meu foco é a edificação de sistemas resilientes e escaláveis. Enquanto **Formador**, dedico-me à capacitação técnica de novos talentos, através da desmistificação da pilha tecnológica moderna e da implementação de rigor operativo.
+Acredito que a excelência tecnológica nasce da interseção entre a arquitetura robusta e a partilha de conhecimento. Enquanto **Engenheiro de Software**, o meu foco é a edificação de sistemas resilientes e escaláveis. Enquanto **Formador**, dedico-me ao **desenvolvimento técnico** de novos talentos, através da desmistificação do **ecossistema técnico atual** e da implementação de rigor operativo.
 
 *Transformo visões estratégicas em soluções robustas e equipas de elevado desempenho.*
 
@@ -90,9 +90,9 @@ Acredito que a excelência tecnológica nasce da interseção entre a arquitetur
 Além da engenharia, dedico-me à formação técnica em diversos domínios:
 
 - **Desenvolvimento Web**: Domínio profundo de HTML5, CSS3 avançado e ecossistema JavaScript moderno.
-- **Frameworks Empresariais**: Formação especializada em **Angular** e **React** para aplicações escaláveis.
+- **Frameworks para Contexto Empresarial**: Formação especializada em **Angular** e **React** para aplicações escaláveis.
 - **Eficiência Operacional**: Implementação de metodologias **Ágeis (Scrum/Kanban)** e ciclos de melhoria contínua (**PDCA**).
-- **Acompanhamento Técnico**: Apoio a programadores na transição para níveis **sénior** e na adoção de práticas **DevOps**.
+- **Mentoria Técnica**: Apoio a programadores na transição para níveis **sénior** e na adoção de práticas **DevOps**.
 
 ---
 
@@ -102,7 +102,7 @@ Além da engenharia, dedico-me à formação técnica em diversos domínios:
   <tr>
     <td width="50%" valign="top">
       <h4>💡 <a href="https://github.com/smpsandro1239/Curso_JavaScript_2025_2">JavaScript Interativo & Gemini AI</a></h4>
-      <p>Plataforma avançada de ensino de JavaScript, centrada na progressão do código introdutório até à implementação de sistemas reais e produtivos, integrada com o modelo <b>Gemini AI</b>.</p>
+      <p>Plataforma avançada de ensino de JavaScript, com foco na progressão do código introdutório até à implementação de sistemas reais e produtivos, integrada com o modelo <b>Gemini AI</b>.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
@@ -112,7 +112,7 @@ Além da engenharia, dedico-me à formação técnica em diversos domínios:
   <tr>
     <td width="50%" valign="top">
       <h4>🕒 <a href="https://github.com/smpsandro1239/TimeAdministrator">Time Administrator</a></h4>
-      <p>Aplicação de gestão de produtividade em <b>TypeScript</b>, centrada em métricas de desempenho e otimização de fluxos.</p>
+      <p>Aplicação de gestão de produtividade em <b>TypeScript</b>, com foco em métricas de desempenho e otimização de fluxos.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/smpsandro1239/MultiFreq_">Quant Trading System</a></h4>
