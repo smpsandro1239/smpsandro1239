@@ -41,19 +41,35 @@ Acredito que a excelência tecnológica nasce da interseção entre a arquitetur
 
 ---
 
-### 📊 Métricas de Impacto & Contribuição
+### 📊 Desempenho & Métricas de Engenharia
 
 <div align="center">
-  <!-- Gráfico de Commits Totais (Impactante e Visual) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a&show_icons=true&include_all_commits=true" width="48%" />
-  <!-- Gráfico de Atividade Geral -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="48%" />
+  <!-- Gráfico de Commits Totais (Tamanho Total para Impacto) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a&show_icons=true&include_all_commits=true" width="100%" alt="Estatísticas de Commits" />
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Mural de Linguagens e Resumo de Perfil -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" width="48%" />
+  <!-- Gráfico de Atividade Geral (Tamanho Total para Impacto) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <!-- Linguagens via Mirror Estável -->
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="200px" alt="Linguagens Predominantes" />
+      </td>
+      <td width="50%" align="center">
+        <!-- Resumo de Perfil via Mirror Estável -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" height="200px" alt="Resumo de Atividade" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
