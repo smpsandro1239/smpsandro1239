@@ -90,22 +90,22 @@ Além da engenharia, dedico-me à capacitação técnica em diversas frentes:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
-      <p>Ecossistema industrial via LoRa. Dashboard em <b>Laravel</b> e firmware <b>ESP32</b> para cenários críticos.</p>
+      <h4>💡 <a href="https://github.com/smpsandro1239/Curso_JavaScript_2025_2">JS Interativo & Gemini AI</a></h4>
+      <p>Plataforma de ensino de elite integrada com o modelo <b>Gemini AI</b>. Focada na transição rápida do código básico para a produção de sistemas reais.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/smpsandro1239/ats-curriculo">ATS Global Engine</a></h4>
-      <p>Plataforma SaaS para otimização de currículos. Engenharia de processamento em <b>React</b>.</p>
+      <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
+      <p>Ecossistema industrial via LoRa. Dashboard em <b>Laravel</b> e firmware <b>ESP32</b> para cenários críticos.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🕒 <a href="https://github.com/smpsandro1239/TimeAdministrator">Time Administrator</a></h4>
-      <p>Gestor de produtividade avançado em <b>TypeScript</b>, focado em alta performance.</p>
+      <p>Gestor de produtividade avançado em <b>TypeScript</b>, focado em métricas de alta performance.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/smpsandro1239/MultiFreq_">Quant Trading Bot</a></h4>
-      <p>Automação financeira em <b>Python</b> com orquestração via <b>Docker</b>.</p>
+      <p>Automação financeira em <b>Python</b> com orquestração via <b>Docker</b> para alta disponibilidade.</p>
     </td>
   </tr>
 </table>
