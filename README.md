@@ -1,16 +1,9 @@
 <div align="center">
-  <!-- Cabeçalho Dinâmico e Sofisticado "Out of the Box" -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20|%20DevOps%20Architect&descAlignY=55&descSize=20&fontColor=0a0a0a" width="100%" />
-
-  <br/>
+  <!-- Cabeçalho Dinâmico de Engenharia - Design Futurista e Fluido -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20Architect&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
 
   <p align="center">
     <b>Especialista em Ecossistemas Digitais de Alta Disponibilidade & Cloud Performance</b>
-  </p>
-
-  <!-- Troféus de Conquista -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=smpsandro1239&theme=radical&no-frame=true&column=7&margin-w=15" alt="Troféus de Conquista" />
   </p>
 
   <p align="center">
@@ -44,28 +37,28 @@ No mundo da tecnologia, a sofisticação não advém da complexidade, mas sim da
 ### 📊 Desempenho & Métricas de Engenharia
 
 <div align="center">
+  <!-- Gráfico de Atividade Otimizado - Visibilidade de Longo Prazo e Alta Densidade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+</div>
+
+<div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <!-- Stats Core -->
-        <img src="https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=00000000" alt="Estatísticas Principais" />
+        <!-- Estatísticas Core via Mirror Estável -->
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="180px" alt="Estatísticas Principais" />
       </td>
       <td width="50%" align="center">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=00000000" alt="Linguagens Predominantes" />
+        <!-- Linguagens Predominantes via Mirror Estável -->
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="180px" alt="Linguagens Predominantes" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Gráfico de Atividade Otimizado (Área e Longo Prazo) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade Anual" />
-</div>
-
-<div align="center">
-  <!-- Sequência de Contribuições -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smpsandro1239&theme=radical&hide_border=true&stroke=00F0FF&background=0a0a0a&fire=00F0FF&currStreakNum=00F0FF" width="100%" alt="Sequência de Contribuições" />
+  <!-- Perfil Visual de Alta Fidelidade (Substitui Trophies/Streak que estão offline) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" width="100%" alt="Resumo do Perfil" />
 </div>
 
 ---
