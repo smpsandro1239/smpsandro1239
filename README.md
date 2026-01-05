@@ -49,15 +49,29 @@ Sou um engenheiro de software apaixonado por criar soluções end-to-end que imp
 
 ## 🏆 Projetos Em Destaque
 
-### [Nome do Projeto 1] ⭐
-**Stack:** React, Node.js, PostgreSQL, Docker
-**Descrição:** SaaS platform para gestão de equipas com 1000+ utilizadores ativos.
-**Demo:** [Ver Live Demo](https://...) | **Código:** [Repositório](https://...)
 
-### [Nome do Projeto 2] ⭐
-**Stack:** Python, FastAPI, MongoDB, Kubernetes
-**Descrição:** API de inteligência artificial para processamento de documentos.
-**Impacto:** Reduziu tempo de processamento em 85%.
+### [ats-curriculo](https://github.com/smpsandro1239/ats-curriculo) ⭐
+
+**Stack:** JavaScript, React, Tailwind CSS
+**Descrição:** Sistema inteligente para criação de currículos otimizados para sistemas de recrutamento (ATS). Foco em UX moderna e exportação PDF de alta fidelidade.
+
+
+### [epatv-job-portal](https://github.com/smpsandro1239/epatv-job-portal) ⭐
+
+**Stack:** PHP, MySQL, Bootstrap
+**Descrição:** Portal completo de gestão de ofertas de emprego e candidaturas. Implementa um ecossistema robusto para conectar candidatos e empresas.
+
+
+### [TimeAdministrator](https://github.com/smpsandro1239/TimeAdministrator) ⭐
+
+**Stack:** TypeScript, Node.js
+**Descrição:** Utilitário avançado para gestão de tempo e produtividade. Demonstra forte domínio de tipagem estática e arquitetura de software limpa.
+
+
+### [Freqtrade / MultiFreq_](https://github.com/smpsandro1239/MultiFreq_) ⭐
+
+**Stack:** Python, Docker, Pandas
+**Descrição:** Estratégias e automação para trading algorítmico. Explora análise de dados financeiros e deployment em containers para alta disponibilidade.
 
 ---
 
