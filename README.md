@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/📍-Braga,%20Portugal-00F0FF?style=for-the-badge&labelColor=0a0a0a" />
     <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Educação-00D1FF?style=for-the-badge&labelColor=0a0a0a" />
     <img src="https://img.shields.io/badge/🚀-Agile%20Coach-00a2ff?style=for-the-badge&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/📂-67%20Repositórios%20Totais-0084ff?style=for-the-badge&labelColor=0a0a0a" />
   </p>
 </div>
 
