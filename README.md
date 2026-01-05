@@ -1,65 +1,70 @@
 <div align="center">
   <!-- Cabeçalho Dinâmico de Engenharia - Design Futurista e Fluido -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20Architect&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20Architect%20|%20IT%20Mentor&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
 
   <p align="center">
-    <b>Especialista em Ecossistemas Digitais de Alta Disponibilidade & Cloud Performance</b>
+    <b>Especialista em Ecossistemas Digitais | Mentor de Tecnologia | Arquitetura de Alto Rendimento</b>
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/📍-Braga,%20Portugal-00F0FF?style=for-the-badge&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Arquitetura-00D1FF?style=for-the-badge&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/🚀-Cloud%20Native-00a2ff?style=for-the-badge&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Educação-00D1FF?style=for-the-badge&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/🚀-Agile%20Coach-00a2ff?style=for-the-badge&labelColor=0a0a0a" />
   </p>
 </div>
 
 ---
 
-### 🖋️ Manifesto de Engenharia
+### 🖋️ Manifesto de Engenharia & Mentoria
 
-No mundo da tecnologia, a sofisticação não advém da complexidade, mas sim da clareza e da resiliência. O meu foco enquanto engenheiro é a edificação de sistemas que não apenas cumprem protocolos, mas que definem novos padrões de eficiência. Domino o espectro completo do desenvolvimento, desde o núcleo dos dispositivos **IoT** até à orquestração de infraestruturas **Cloud** massivas.
+Acredito que a excelência tecnológica nasce da interseção entre a arquitetura robusta e a partilha de conhecimento. Enquanto **Engenheiro de Software**, foco-me na edificação de sistemas resilientes e escaláveis. Enquanto **Formador**, dedico-me a capacitar a próxima geração de talentos, desmistificando a complexidade do *stack* moderno e implementando rigor operativo.
 
-*A minha missão é traduzir visões estratégicas em arquiteturas de alto rendimento.*
+*Transformo visões estratégicas em código de elite e equipas de alta performance.*
 
 ---
 
 ### 🛠️ Ecossistema de Especialização
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,c,cpp,bash&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,laravel,fastapi,flask&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,linux,githubactions,git&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,nginx,postman&theme=dark" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Engenharia Base & Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,c,cpp,react,angular,nextjs,nodejs,laravel&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Infraestrutura, Cloud & Agile</h4>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,githubactions,git&theme=dark" /><br/>
+      <img src="https://img.shields.io/badge/Methodologies-Agile%20|%20Scrum%20|%20Kanban%20|%20PDCA-00F0FF?style=flat-square&labelColor=0a0a0a" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Desempenho & Métricas de Engenharia
+### 📊 Métricas de Impacto & Contribuição
 
 <div align="center">
-  <!-- Gráfico de Atividade Otimizado - Visibilidade de Longo Prazo e Alta Densidade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+  <!-- Gráfico de Commits Totais (Impactante e Visual) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a&show_icons=true&include_all_commits=true" width="48%" />
+  <!-- Gráfico de Atividade Geral -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="48%" />
 </div>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Estatísticas Core via Mirror Estável -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="180px" alt="Estatísticas Principais" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Linguagens Predominantes via Mirror Estável -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="180px" alt="Linguagens Predominantes" />
-      </td>
-    </tr>
-  </table>
+  <!-- Mural de Linguagens e Resumo de Perfil -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" width="48%" />
 </div>
 
-<div align="center">
-  <!-- Perfil Visual de Alta Fidelidade (Substitui Trophies/Streak que estão offline) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" width="100%" alt="Resumo do Perfil" />
-</div>
+---
+
+### 👨‍🏫 Formação & Mentoria em TI
+
+Além da engenharia, dedico-me à capacitação técnica em diversas frentes:
+- **Web Development Core**: Domínio profundo de HTML5, CSS3 avançado e ecossistema JavaScript moderno.
+- **Frameworks Enterprise**: Formação especializada em **Angular** e React para aplicações escaláveis.
+- **Eficiência Operativa**: Implementação de metodologias **Agile (Scrum/Kanban)** e ciclos de melhoria contínua (**PDCA**).
+- **Mentoria Técnica**: Acompanhamento de programadores na transição para níveis séniores e práticas de DevOps.
 
 ---
 
@@ -69,21 +74,21 @@ No mundo da tecnologia, a sofisticação não advém da complexidade, mas sim da
   <tr>
     <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
-      <p>Ecossistema industrial para o controlo de acessos via LoRa. Dashboard em <b>Laravel</b> e firmware <b>ESP32</b> otimizado para cenários críticos.</p>
+      <p>Ecossistema industrial via LoRa. Dashboard em <b>Laravel</b> e firmware <b>ESP32</b> para cenários críticos.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📄 <a href="https://github.com/smpsandro1239/ats-curriculo">ATS Global Engine</a></h4>
-      <p>Plataforma SaaS para otimização de currículos. Engenharia de processamento em <b>React</b> com foco na conversão analítica de dados.</p>
+      <p>Plataforma SaaS para otimização de currículos. Engenharia de processamento em <b>React</b>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🕒 <a href="https://github.com/smpsandro1239/TimeAdministrator">Time Administrator</a></h4>
-      <p>Ferramenta de monitorização de produtividade. Estrutura em <b>TypeScript</b>, concebida para métricas de alta granulação.</p>
+      <p>Gestor de produtividade avançado em <b>TypeScript</b>, focado em alta performance.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/smpsandro1239/MultiFreq_">Quant Trading Bot</a></h4>
-      <p>Sistema de automação financeira em <b>Python</b>. Implementação de modelos quantitativos e orquestração via <b>Docker</b>.</p>
+      <p>Automação financeira em <b>Python</b> com orquestração via <b>Docker</b>.</p>
     </td>
   </tr>
 </table>
@@ -113,6 +118,6 @@ No mundo da tecnologia, a sofisticação não advém da complexidade, mas sim da
 ---
 
 <p align="center">
-  <i>"A engenharia é a arte de tornar o impossível em fiável."</i><br/>
-  <b>Sandro Pereira — Software Architect</b>
+  <i>"Ensinar é aprender duas vezes; codificar é criar sem limites."</i><br/>
+  <b>Sandro Pereira — Software Architect & IT Mentor</b>
 </p>
