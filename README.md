@@ -52,14 +52,21 @@ Acredito que a excelência tecnológica nasce da interseção entre a arquitetur
 <br/>
 
 <div align="center">
+  <!-- 2. Streak Stats (Grande - Novo Destaque) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smpsandro1239&theme=radical&hide_border=true&stroke=00F0FF&background=0a0a0a&fire=00F0FF&currStreakNum=00F0FF" width="100%" alt="Sequência de Contribuições" />
+</div>
+
+<br/>
+
+<div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <!-- 2. Estatísticas Principais (Centro Esquerda) -->
+        <!-- 3. Estatísticas Principais (Centro Esquerda) -->
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a&include_all_commits=true" height="180px" alt="Estatísticas Principais" />
       </td>
       <td width="50%" align="center">
-        <!-- 3. Linguagens Predominantes (Centro Direita) -->
+        <!-- 4. Linguagens Predominantes (Centro Direita) -->
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="180px" alt="Linguagens Predominantes" />
       </td>
     </tr>
@@ -69,7 +76,7 @@ Acredito que a excelência tecnológica nasce da interseção entre a arquitetur
 <br/>
 
 <div align="center">
-  <!-- 4. Resumo do Perfil (Grande no Fundo) -->
+  <!-- 5. Resumo do Perfil (Grande no Fundo) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" width="100%" alt="Resumo do Perfil" />
 </div>
 
