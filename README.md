@@ -1,36 +1,36 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Sandro Pereira Banner" />
+  <!-- Cabeçalho Dinâmico e Sofisticado "Out of the Box" -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20|%20DevOps%20Architect&descAlignY=55&descSize=20&fontColor=0a0a0a" width="100%" />
+
   <br/>
 
-  <h1><b>Sandro Pereira</b></h1>
   <p align="center">
-    <b>Engenheiro de Software Full-Stack | Especialista em Infraestrutura Digital & Cloud Computing</b>
+    <b>Especialista em Ecossistemas Digitais de Alta Disponibilidade & Cloud Performance</b>
   </p>
 
+  <!-- Troféus de Conquista -->
   <p align="center">
-    <a href="https://github.com/smpsandro1239">
-      <img src="https://github-profile-trophy.vercel.app/?username=smpsandro1239&theme=radical&no-frame=true&column=7&margin-w=15" alt="github trophies" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=smpsandro1239&theme=radical&no-frame=true&column=7&margin-w=15" alt="Troféus de Conquista" />
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/📍-Braga,%20Portugal-00F0FF?style=for-the-badge&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/💼-Open%20to%20Collaborate-00D1FF?style=for-the-badge&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/🎓-Software%20Engineering-00a2ff?style=for-the-badge&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Arquitetura-00D1FF?style=for-the-badge&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/🚀-Cloud%20Native-00a2ff?style=for-the-badge&labelColor=0a0a0a" />
   </p>
 </div>
 
 ---
 
-### 🖋️ Manifesto Técnico
+### 🖋️ Manifesto de Engenharia
 
-Acredito que o código de excelência é aquele que não só resolve problemas, mas que é construído para durar. O meu foco reside na criação de sistemas onde a **performance**, a **segurança** e a **escalabilidade** convergem. Do firmware de baixo nível em sistemas IoT até arquiteturas complexas na nuvem, aplico um rigor de engenharia focado na automatização e na entrega contínua.
+No mundo da tecnologia, a sofisticação não advém da complexidade, mas sim da clareza e da resiliência. O meu foco enquanto engenheiro é a edificação de sistemas que não apenas cumprem protocolos, mas que definem novos padrões de eficiência. Domino o espectro completo do desenvolvimento, desde o núcleo dos dispositivos **IoT** até à orquestração de infraestruturas **Cloud** massivas.
 
-*Transformo complexidade técnica em produtos de alto valor operacional.*
+*A minha missão é traduzir visões estratégicas em arquiteturas de alto rendimento.*
 
 ---
 
-### 🛠️ Ecossistema Tecnológico
+### 🛠️ Ecossistema de Especialização
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,c,cpp,bash&theme=dark" /><br/>
@@ -41,81 +41,85 @@ Acredito que o código de excelência é aquele que não só resolve problemas, 
 
 ---
 
-### 📊 Desempenho & Métricas de Contribuição
+### 📊 Desempenho & Métricas de Engenharia
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" alt="Sandro's GitHub Stats" />
+        <!-- Stats Core -->
+        <img src="https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=00000000" alt="Estatísticas Principais" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" alt="Top Languages" />
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=00000000" alt="Linguagens Predominantes" />
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Gráfico de Atividade Otimizado (Área e Longo Prazo) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade Anual" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smpsandro1239&theme=radical&hide_border=true&stroke=00F0FF&background=0a0a0a&fire=00F0FF&currStreakNum=00F0FF" width="100%" alt="GitHub Streak" />
+  <!-- Sequência de Contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smpsandro1239&theme=radical&hide_border=true&stroke=00F0FF&background=0a0a0a&fire=00F0FF&currStreakNum=00F0FF" width="100%" alt="Sequência de Contribuições" />
 </div>
 
 ---
 
-### � Projetos Sob Holofote
+### 🎯 Projetos Sob Holofote
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
-      <p>Sistema industrial critico para controlo de acessos via LoRa. Dashboard em <b>Laravel</b> e firmware <b>ESP32</b> otimizado para ambientes industriais.</p>
+      <p>Ecossistema industrial para o controlo de acessos via LoRa. Dashboard em <b>Laravel</b> e firmware <b>ESP32</b> otimizado para cenários críticos.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📄 <a href="https://github.com/smpsandro1239/ats-curriculo">ATS Global Engine</a></h4>
-      <p>Plataforma SaaS para otimização de currículos. Inteligência de processamento em <b>React</b> com foco extremo em UX e conversão de dados.</p>
+      <p>Plataforma SaaS para otimização de currículos. Engenharia de processamento em <b>React</b> com foco na conversão analítica de dados.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🕒 <a href="https://github.com/smpsandro1239/TimeAdministrator">Time Administrator</a></h4>
-      <p>Gestor de produtividade de luxo. Desenvolvido com <b>TypeScript</b>, focado em métricas granulares e performance de execução.</p>
+      <p>Ferramenta de monitorização de produtividade. Estrutura em <b>TypeScript</b>, concebida para métricas de alta granulação.</p>
     </td>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/smpsandro1239/MultiFreq_">Quant Trading Bot</a></h4>
-      <p>Automação financeira baseada em <b>Python</b>. Implementação de estratégias quantitativas e execução via containers <b>Docker</b>.</p>
+      <p>Sistema de automação financeira em <b>Python</b>. Implementação de modelos quantitativos e orquestração via <b>Docker</b>.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Conectividade Profissional
+### 🤝 Conectividade Profissional
 
 <div align="center">
   <a href="https://linkedin.com/in/smpsandro1239" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:smpsandro1239@gmail.com">
-    <img src="https://img.shields.io/badge/Pro%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail%20Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/smpsandro1239" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Core-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=smpsandro1239&color=00F0FF&style=flat-square&label=PERFIL+VISUALIZADO" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=smpsandro1239&color=00F0FF&style=flat-square&label=TRÁFEGO+DE+PERFIL" alt="Contador de Visitas" />
 </div>
 
 ---
 
 <p align="center">
-  <i>"Code is poetry, but engineering is art."</i><br/>
-  <b>Sandro Pereira — Engenheiro de Software</b>
+  <i>"A engenharia é a arte de tornar o impossível em fiável."</i><br/>
+  <b>Sandro Pereira — Software Architect</b>
 </p>
