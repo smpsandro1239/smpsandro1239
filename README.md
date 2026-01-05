@@ -21,7 +21,7 @@
 
 ### 🖋️ Manifesto de Engenharia & Formação
 
-Acredito que a excelência tecnológica nasce da interseção entre a arquitetura robusta e a partilha de conhecimento. Enquanto **Engenheiro de Software**, o meu foco é a edificação de sistemas resilientes e escaláveis. Enquanto **Formador**, dedico-me ao **desenvolvimento técnico** de novos talentos, através da desmistificação do **ecossistema técnico atual** e da implementação de rigor operativo.
+Acredito que a excelência tecnológica nasce da interseção entre a arquitetura robusta e a partilha de conhecimento. Enquanto **Engenheiro de Software**, o meu foco é a edificação de sistemas resilientes e escaláveis. Enquanto **Formador**, dedico-me à **formação técnica** de novos talentos, através da desmistificação do **ecossistema técnico atual** e da implementação de rigor operativo.
 
 *Transformo visões estratégicas em soluções robustas e equipas de elevado desempenho.*
 
@@ -90,7 +90,7 @@ Acredito que a excelência tecnológica nasce da interseção entre a arquitetur
 Além da engenharia, dedico-me à formação técnica em diversos domínios:
 
 - **Desenvolvimento Web**: Domínio profundo de HTML5, CSS3 avançado e ecossistema JavaScript moderno.
-- **Frameworks para Contexto Empresarial**: Formação especializada em **Angular** e **React** para aplicações escaláveis.
+- **Frameworks em Contexto Empresarial**: Formação especializada em **Angular** e **React** para aplicações escaláveis.
 - **Eficiência Operacional**: Implementação de metodologias **Ágeis (Scrum/Kanban)** e ciclos de melhoria contínua (**PDCA**).
 - **Mentoria Técnica**: Apoio a programadores na transição para níveis **sénior** e na adoção de práticas **DevOps**.
 
@@ -102,7 +102,7 @@ Além da engenharia, dedico-me à formação técnica em diversos domínios:
   <tr>
     <td width="50%" valign="top">
       <h4>💡 <a href="https://github.com/smpsandro1239/Curso_JavaScript_2025_2">JavaScript Interativo & Gemini AI</a></h4>
-      <p>Plataforma avançada de ensino de JavaScript, com foco na progressão do código introdutório até à implementação de sistemas reais e produtivos, integrada com o modelo <b>Gemini AI</b>.</p>
+      <p>Plataforma avançada de ensino de JavaScript, com foco na progressão desde código introdutório até à implementação de sistemas reais e produtivos, integrada com o modelo <b>Gemini AI</b>.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
