@@ -1,0 +1,46 @@
+name: Bug report
+description: Create a report to help us improve
+title: "[BUG] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar um bug! Por favor, forneça o máximo de detalhes possível.
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do Bug
+      description: Uma descrição clara e concisa do que é o bug.
+      placeholder: Ex: O botão de login não responde quando clicado...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Como Reproduzir
+      description: Passos para reproduzir o comportamento.
+      placeholder: |
+        1. Vá para '...'
+        2. Clique em '....'
+        3. Veja o erro
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento Esperado
+      description: Uma descrição clara do que você esperava que acontecesse.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Se aplicável, adicione screenshots para ajudar a explicar seu problema.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Ambiente
+      description: OS, Navegador, Versões, etc.
