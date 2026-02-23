@@ -53,3 +53,4 @@
 [2026-01-06 15:59:56] fix: correção de erros de lógica
 [2026-01-06 15:59:57] test: ajustes de segurança
 [2026-01-06 15:59:57] docs: implementação de nova feature
+[2026-01-06 15:59:57] perf: correção de memory leaks
