@@ -1,2 +1,3 @@
 [2026-01-06 16:00:01] test: ajustes de segurança
 [2026-01-06 16:00:02] feat: implementação de testes unitários
+[2026-01-06 16:00:02] chore: correção de memory leaks
