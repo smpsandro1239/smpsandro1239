@@ -7,3 +7,4 @@
 \n## Estatísticas\n\n<div style="display:flex;gap:15px;background:#f8f9fa;padding:15px;border-radius:8px;">\n  <div><strong>Commits</strong><br>1,234</div>\n  <div><strong>PRs</strong><br>56</div>\n  <div><strong>Issues</strong><br>23</div>\n</div>
 \n## Atualmente Trabalhando em\n\n<div style="background:#e8f5e8;padding:15px;border-radius:8px;">\n  🚀 <b>Food‑Tech Platform</b> – Plataforma de delivery com IA (em progresso)\n</div>
 
+
