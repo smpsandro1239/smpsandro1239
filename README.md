@@ -8,3 +8,4 @@
 \n## Atualmente Trabalhando em\n\n<div style="background:#e8f5e8;padding:15px;border-radius:8px;">\n  🚀 <b>Food‑Tech Platform</b> – Plataforma de delivery com IA (em progresso)\n</div>
 
 
+\n---\n\n### 👥 LinkedIn\n\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smpsandro1239)
