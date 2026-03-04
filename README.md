@@ -9,6 +9,26 @@
   <p align="center">
     <!-- Badges melhorados com Logos -->
     <img src="https://img.shields.io/badge/📍-Braga,%20Portugal-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Educa%C3%A7%C3%A3o-00D1FF?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/🚀-Metodologias%20%C3%81geis-00a2ff?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=0a0a0a" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/🔴-Atualmente_em_Continente_S.A-red?style=flat-square&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/🟢-Dispon%C3%ADvel_para_Remoto-green?style=flat-square&labelColor=0a0a0a" />
+  </p>
+</div>
+<div align="center">
+  <!-- Cabeçalho Dinâmico - Design Futurista -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Eng.%20Inform%C3%A1tica%20|%20DevOps%20|%20Formador%20TI&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
+
+  <p align="center">
+    <b>Especialista em Ecossistemas Digitais | Formação Tecnológica | Arquitetura de Alto Desempenho</b>
+  </p>
+
+  <p align="center">
+    <!-- Badges melhorados com Logos -->
+    <img src="https://img.shields.io/badge/📍-Braga,%20Portugal-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=0a0a0a" />
     <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Educação-00D1FF?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=0a0a0a" />
     <img src="https://img.shields.io/badge/🚀-Metodologias%20Ágeis-00a2ff?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=0a0a0a" />
   </p>
