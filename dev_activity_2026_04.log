@@ -54,3 +54,4 @@
 [2026-01-06 16:00:35] fix: correção de vulnerabilidades
 [2026-01-06 16:00:35] perf: ajustes de segurança
 [2026-01-06 16:00:36] test: ajustes de acessibilidade
+[2026-01-06 16:00:36] chore: correção de memory leaks
