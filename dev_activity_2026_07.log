@@ -16,3 +16,4 @@
 [2026-01-06 16:01:17] perf: ajustes de acessibilidade
 [2026-01-06 16:01:17] test: otimização de algoritmos
 [2026-01-06 16:01:17] style: atualização da documentação técnica
+[2026-01-06 16:01:17] refactor: correção de memory leaks
