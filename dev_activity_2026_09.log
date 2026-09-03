@@ -8,3 +8,4 @@
 [2026-01-06 16:01:46] chore: otimização de queries
 [2026-01-06 16:01:47] fix: atualização de dependências
 [2026-01-06 16:01:47] perf: otimização de algoritmos
+[2026-01-06 16:01:47] perf: correção de erros de lógica
