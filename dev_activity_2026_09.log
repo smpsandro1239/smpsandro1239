@@ -55,3 +55,4 @@
 [2026-01-06 16:01:57] refactor: atualização da documentação técnica
 [2026-01-06 16:01:58] fix: correção de vulnerabilidades
 [2026-01-06 16:01:58] docs: correção de memory leaks
+[2026-01-06 16:01:58] perf: correção de bug crítico
