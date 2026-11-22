@@ -1,176 +1,144 @@
 <div align="center">
-  <!-- Cabeçalho Dinâmico - Design Futurista -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=320&section=header&text=Sandro%20Pereira&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Eng.%20Inform%C3%A1tica%20|%20DevOps%20|%20Formador%20TI&descAlignY=55&descSize=20&fontColor=000000" width="100%" />
 
-  <p align="center">
-    <b>Especialista em Ecossistemas Digitais | Formação Tecnológica | Arquitetura de Alto Desempenho</b>
-  </p>
+# Sandro Pereira
 
-  <p align="center">
-    <!-- Badges melhorados com Logos -->
-    <img src="https://img.shields.io/badge/📍-Braga,%20Portugal-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/💼-Consultoria%20&%20Educação-00D1FF?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/🚀-Metodologias%20Ágeis-00a2ff?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=0a0a0a" />
-  </p>
+### Software Developer · AI Engineering · Full-Stack Development
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/🔴-Atualmente_em_Continente_S.A-red?style=flat-square&labelColor=0a0a0a" />
-    <img src="https://img.shields.io/badge/🟢-Disponível_para_Remoto-green?style=flat-square&labelColor=0a0a0a" />
-  </p>
+**Construo aplicações, automatizações e sistemas inteligentes orientados para problemas reais.**
+
+Braga, Portugal · [GitHub](https://github.com/smpsandro1239) · [Portefólio](https://smpsandro1239.github.io/portfolio-dev-senior/) · [Email](mailto:smpsandro1239@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portefólio-Visitar-00B8D9?style=for-the-badge)](https://smpsandro1239.github.io/portfolio-dev-senior/)
+[![GitHub](https://img.shields.io/badge/GitHub-smpsandro1239-181717?style=for-the-badge&logo=github)](https://github.com/smpsandro1239)
+
 </div>
 
 ---
 
-### 🖋️ Visão e Princípios
+## Sobre mim
 
-<div align="left">
-  <p> A engenharia vai além do código: exige arquitetura, resiliência e pessoas preparadas.</p>
-  <p>Atuo onde a tecnologia encontra o desenvolvimento humano, crio sistemas escaláveis como Desenvolvedor e formo a próxima geração de talentos.</p>
-  <h3>O meu objetivo é criar soluções concretas e equipas autónomas.</h3>
-</div>
+Sou um profissional de tecnologia focado no desenvolvimento de software e na criação de soluções digitais. Interesso-me particularmente pela ligação entre **engenharia de software, inteligência artificial, desenvolvimento Full-Stack e automação**.
+
+Gosto de trabalhar em projetos que cruzam diferentes áreas tecnológicas: desde aplicações Web e APIs até sistemas multiagente, integração de hardware e ferramentas de análise.
+
+Procuro desenvolver soluções com atenção à arquitetura, segurança, manutenção, documentação e experiência do utilizador. Valorizo também a aprendizagem contínua e a partilha de conhecimento.
+
+- 📍 Braga, Portugal
+- 💻 Desenvolvimento de software e aplicações Web
+- 🤖 Inteligência artificial, integração de modelos e sistemas multiagente
+- ⚙️ Automação, contentorização e infraestrutura
+- 🌐 [Portefólio profissional](https://smpsandro1239.github.io/portfolio-dev-senior/)
+
+## Foco atual
+
+- **AI Engineering:** experimentação com agentes, integração de modelos e automação de tarefas.
+- **Computer Vision:** desenvolvimento do conceito SMART SHELF AI, com foco em reconhecimento visual e processamento de modelos.
+- **Full-Stack Engineering:** aplicações Web, APIs, autenticação e persistência de dados.
+- **DevOps:** Docker, pipelines de integração e entrega contínuas e ambientes de execução.
+- **IoT:** integração entre aplicações Web, microcontroladores e comunicação de dispositivos.
+
+> Os projetos em desenvolvimento são identificados como tal. A sua presença nesta secção não significa que estejam concluídos ou disponíveis em produção.
+
+## Competências técnicas
+
+As tecnologias abaixo refletem ferramentas presentes nos meus projetos e experiências de desenvolvimento. O grau de utilização varia entre projetos.
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Frontend e Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Dados, infraestrutura e ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### IA, automação e IoT
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-0072C6?style=flat-square)
 
 ---
 
-### 🛠️ Ecossistema de Especialização
+## Projetos em destaque
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>💻 Engenharia & Estruturas</h4>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,go,php,c,cpp,react,angular,nextjs,nodejs,laravel&theme=dark" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>⚙️ Infraestrutura & Gestão Ágil</h4>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,githubactions,git&theme=dark" /><br/><br/>
-      <img src="https://img.shields.io/badge/Metodologias-Ágeis%20|%20Scrum%20|%20Kanban%20|%20PDCA-00F0FF?style=for-the-badge&labelColor=0a0a0a" />
-    </td>
-  </tr>
-</table>
+### 🤖 Inteligência artificial e sistemas quantitativos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [AI Crypto Multi-Agent](https://github.com/smpsandro1239/AiCryptoMultiAgente) | Framework modular orientado a eventos, com agentes especializados, backtesting, gestão de risco e execução simulada/ligada a exchanges. | Python, agentes, CCXT |
+| [AI Studio / Gemini](https://github.com/smpsandro1239/Curso_JavaScript_2025_2) | Aplicação Web experimental com integração da API Gemini. | React, TypeScript, Vite, Gemini API |
+| [MultiFreq](https://github.com/smpsandro1239/MultiFreq_) | Repositório relacionado com gestão de instâncias Freqtrade, Docker, estratégias e ferramentas de backtesting. | Docker, Python, Freqtrade |
+
+### 🧩 Aplicações e engenharia Full-Stack
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [TimeAdministrator](https://github.com/smpsandro1239/TimeAdministrator) | Aplicação de gestão de clientes e subscrições, com área administrativa, API, notificações e pagamentos. | Angular, NestJS, MongoDB, Docker |
+| [Sistema de Faturação AT](https://github.com/smpsandro1239/Sistema-de-Faturacao-AT) | Projeto de sistema de faturação orientado para processos comerciais e requisitos fiscais portugueses. A conformidade legal deve ser validada antes de qualquer utilização real. | Next.js, TypeScript, Prisma, PostgreSQL |
+| [Portefólio profissional](https://github.com/smpsandro1239/portfolio-dev-senior) | Portefólio Web com foco em JavaScript nativo, acessibilidade, performance, SEO e apresentação de projetos. | HTML, CSS, JavaScript |
+
+### 🌐 IoT e integração de hardware
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [IoT Access Control](https://github.com/smpsandro1239/IOT) | Solução de controlo de acessos e gestão de barreiras, integrando aplicação Web, firmware e comunicação de dispositivos. | Laravel, PHP, MySQL, ESP32, C++, LoRa |
 
 ---
 
-### 📊 Desempenho & Métricas de Engenharia
+## Engenharia de software
+
+Áreas que procuro aplicar e aprofundar nos projetos:
+
+- **Arquitetura:** separação de responsabilidades, modularidade e organização por domínios.
+- **Backend:** desenho de APIs, validação de dados, autenticação e autorização.
+- **Frontend:** interfaces responsivas, acessibilidade e experiência do utilizador.
+- **Dados:** modelação, persistência e integração com bases de dados relacionais e NoSQL.
+- **DevOps:** contentorização, automatização de tarefas e pipelines CI/CD.
+- **Qualidade:** testes, revisão de código, documentação e tratamento de erros.
+- **Segurança:** gestão de segredos, validação de entradas e princípio do menor privilégio.
+
+Estas são áreas de prática e desenvolvimento contínuo; não representam uma certificação formal em cada disciplina.
+
+## Formação
+
+- **TeSP em Desenvolvimento Web e Multimédia** — percurso académico na área do desenvolvimento Web e tecnologias multimédia.
+- Formação e aprendizagem complementar em programação, bases de dados, redes, sistemas e ferramentas de desenvolvimento.
+
+## GitHub
 
 <div align="center">
-  <!-- 1. Gráfico de Atividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&theme=react-dark&bg_color=0a0a0a&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smpsandro1239&show_icons=true&hide_border=true&theme=transparent)](https://github.com/smpsandro1239)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&hide_border=true&theme=transparent)](https://github.com/smpsandro1239)
+
 </div>
 
-<br/>
+## Contacto
 
-<div align="center">
-  <!-- 2. Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smpsandro1239&theme=radical&hide_border=true&stroke=00F0FF&background=0a0a0a&fire=00F0FF&currStreakNum=00F0FF" width="100%" alt="Sequência de Contribuições" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <!-- 3. Estatísticas Principais -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smpsandro1239&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0a&include_all_commits=true" height="180px" alt="Estatísticas Principais" />
-      </td>
-      <td width="50%" align="center">
-        <!-- 4. Linguagens Predominantes -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smpsandro1239&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0a0a0a" height="180px" alt="Linguagens Predominantes" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- 5. Resumo do Perfil -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smpsandro1239&theme=radical" width="100%" alt="Resumo do Perfil" />
-</div>
+- **GitHub:** [github.com/smpsandro1239](https://github.com/smpsandro1239)
+- **Portefólio:** [smpsandro1239.github.io/portfolio-dev-senior](https://smpsandro1239.github.io/portfolio-dev-senior/)
+- **Email:** [smpsandro1239@gmail.com](mailto:smpsandro1239@gmail.com)
 
 ---
 
-### 👨‍🏫 Formação & Mentoria em TI
-
-<div align="left">
-  <ul>
-    <li><b>Desenvolvimento Web</b>: HTML5, CSS3, ecossistema JavaScript moderno.</li>
-    <li><b>Frameworks Empresariais</b>: Angular, Next.js, Laravel.</li>
-    <li><b>Infraestrutura</b>: Docker, Kubernetes, AWS, Terraform.</li>
-    <li><b>Metodologias Ágeis</b>: Scrum, Kanban, PDCA.</li>
-    <li><b>Mentoria Técnica</b>: Acompanhamento de carreiras e adoção de DevOps.</li>
-  </ul>
-</div>
-
----
-
-### 🎯 Projetos em Destaque
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>💡 <a href="https://github.com/smpsandro1239/Curso_JavaScript_2025_2">JavaScript Interativo & Gemini AI</a></h4>
-        <p>Plataforma avançada de ensino de JavaScript integrada com Gemini AI.</p>
-        <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=flat-square&logo=google&logoColor=white" alt="Gemini AI" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>🏢 <a href="https://github.com/smpsandro1239/IOT">IOT Access Control</a></h4>
-        <p>Dashboard Laravel + firmware ESP32 para controle industrial.</p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/ESP32-gray?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>🕒 <a href="https://github.com/smpsandro1239/TimeAdministrator">Time Administrator</a></h4>
-        <p>Aplicação de gestão de produtividade em TypeScript.</p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Productivity-green?style=flat-square" alt="Productivity" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h4>📈 <a href="https://github.com/smpsandro1239/MultiFreq_">Quant Trading System</a></h4>
-        <p>Sistema automatizado de trading quantitativo em Python, orquestrado via Docker.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🤝 Contactos
-
 <div align="center">
-  <a href="https://linkedin.com/in/smpsandro1239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:smpsandro1239@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail%20Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/smpsandro1239" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Core-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+*Construir, testar, aprender e melhorar continuamente.*
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=smpsandro1239&color=00F0FF&style=flat-square&label=VISITAS+DO+PERFIL" alt="Contador de Visitas" />
-</div>
-
----
-
-<p align="center">
-  <i>"Ensinar é a forma mais exigente e recompensadora de dominar uma arte."</i><br/>
-  <b>Sandro Pereira — Desenvolvedor & Formador em TI</b>
-</p>
