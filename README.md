@@ -17,9 +17,11 @@
 
 ## 🇵🇹 Sobre mim
 
-Sou um profissional de tecnologia com formação em **Desenvolvimento Web e Multimédia** e foco no desenvolvimento de software. Exploro a intersecção entre **engenharia de software, inteligência artificial, aplicações Full-Stack, automação e IoT**.
+Sou **Desenvolvedor Full-Stack e Formador Técnico certificado (CCP)**, com mais de 20 anos de experiência profissional em contexto industrial e de retalho no Continente / Sonae MC, em paralelo com o desenvolvimento de aplicações e produtos digitais. Estou a frequentar a **Licenciatura em Engenharia Informática na Universidade do Minho (Nível 6)**, depois de concluir o CTeSP em Desenvolvimento Web e Multimédia no IPCA.
 
-Interessa-me construir soluções completas: compreender o problema, desenhar a arquitetura, implementar, testar, documentar e melhorar. Dou especial atenção à modularidade, segurança, manutenção e experiência de utilização.
+O meu percurso combina experiência operacional, desenvolvimento de software e formação técnica. Trabalho em projetos que cruzam **engenharia de software, aplicações Full-Stack, inteligência artificial, automação, DevOps e IoT**.
+
+Interessa-me acompanhar todo o ciclo de engenharia: compreender o problema, definir requisitos, desenhar a arquitetura, implementar, testar, documentar, colocar em funcionamento e melhorar continuamente. Valorizo soluções seguras, observáveis, acessíveis, testáveis e sustentáveis.
 
 - 🧠 **AI Engineering:** sistemas multiagente, integração de modelos e experiências com IA.
 - 👁️ **Computer Vision:** exploração de processamento visual e inferência de modelos.
@@ -232,11 +234,22 @@ A animação é gerada diariamente pelo GitHub Actions e publicada no ramo `outp
 
 > Os cartões de estatísticas são gerados por serviços externos e podem ter limites de disponibilidade ou atualização. As métricas apresentadas não substituem a análise dos repositórios.
 
-## 🎓 Formação
+## 🎓 Formação académica e certificação
 
-**TeSP em Desenvolvimento Web e Multimédia** — formação na área de desenvolvimento Web e tecnologias multimédia.
+| Formação | Instituição | Estado |
+|---|---|---|
+| **Licenciatura em Engenharia Informática (Nível 6)** | **Universidade do Minho — Braga** | **Em curso · por concluir** |
+| CTeSP em Desenvolvimento Web e Multimédia (Nível 5) | IPCA | Concluído · 2024 |
+| Certificado de Competências Pedagógicas (CCP) | CCP Tech | Obtido · 2025 |
+| Curso de Eletrotecnia (Nível 3) | Escola Profissional Amar Terra Verde | Concluído |
 
-Experiência académica e prática em programação, bases de dados, redes de computadores, sistemas e desenvolvimento de aplicações.
+A formação académica é complementada por experiência prática em programação, bases de dados, redes, sistemas, desenvolvimento de aplicações, automação e integração de soluções tecnológicas.
+
+## 🏆 Reconhecimento e participação
+
+- **1.º Prémio — Projeto IoT com ESP32 e LoRa**, Universidade do Minho.
+- **Orador convidado no MC Summit 2024 — Sonae MC**, no painel «Tecnologia de Informação em prol do Retalho e Indústria».
+- Experiência de formação técnica, preparação de materiais pedagógicos e apoio ao desenvolvimento de competências em equipas.
 
 ## 🤝 Contacto e colaboração
 
@@ -268,6 +281,6 @@ I enjoy working across the full development lifecycle: understanding problems, d
 
 **Featured work:** AI Crypto Multi-Agent · SMART SHELF AI (in development) · IoT Access Control · TimeAdministrator · MultiFreq · Web Portfolio.
 
-**Education:** Higher Professional Technical Course (TeSP) in Web Development and Multimedia.
+**Education:** BSc in Computer Engineering — University of Minho (Level 6, currently in progress); Higher Professional Technical Course (TeSP) in Web Development and Multimedia — IPCA (completed, 2024). **Certification:** Certified Vocational Trainer (CCP), CCP Tech (2025).
 
 **GitHub:** [github.com/smpsandro1239](https://github.com/smpsandro1239) · **Portfolio:** [smpsandro1239.github.io/portfolio-dev-senior](https://smpsandro1239.github.io/portfolio-dev-senior/)
