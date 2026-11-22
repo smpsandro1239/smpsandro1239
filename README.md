@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Sandro%20Pereira&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Development%20%7C%20AI%20Engineering%20%7C%20Full-Stack&descAlignY=58&descSize=17" width="100%" alt="Sandro Pereira — Software Developer" />
 
 <a href="https://github.com/smpsandro1239"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<img src="https://img.shields.io/github/followers/smpsandro1239?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores GitHub"/>
 <a href="https://smpsandro1239.github.io/portfolio-dev-senior/"><img src="https://img.shields.io/badge/Portefólio-Explorar-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portefólio"/></a>
 <img src="https://img.shields.io/badge/Localização-Portugal-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Portugal"/>
 
@@ -170,6 +171,19 @@ Portefólio construído com tecnologias Web nativas, com foco em apresentação 
 |---|---|---|
 | [Sistema de Faturação AT](https://github.com/smpsandro1239/Sistema-de-Faturacao-AT) | Aplicação de faturação e gestão comercial; qualquer alegação de conformidade fiscal carece de validação formal. | Next.js, TypeScript, Prisma |
 | [Gemini AI Studio](https://github.com/smpsandro1239/Curso_JavaScript_2025_2) | Experiência Web com integração da API Gemini. | React, TypeScript, Vite |
+
+## 📌 Repositórios em destaque — cartões dinâmicos
+
+Os cartões seguintes apresentam informação atualizada diretamente a partir dos repositórios públicos.
+
+<div align="center">
+  <a href="https://github.com/smpsandro1239/AiCryptoMultiAgente"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smpsandro1239&repo=AiCryptoMultiAgente&hide_border=true" alt="Cartão do repositório AI Crypto Multi-Agent"/></a>
+  <a href="https://github.com/smpsandro1239/IOT"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smpsandro1239&repo=IOT&hide_border=true" alt="Cartão do repositório IoT Access Control"/></a>
+  <a href="https://github.com/smpsandro1239/TimeAdministrator"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smpsandro1239&repo=TimeAdministrator&hide_border=true" alt="Cartão do repositório TimeAdministrator"/></a>
+  <a href="https://github.com/smpsandro1239/MultiFreq_"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smpsandro1239&repo=MultiFreq_&hide_border=true" alt="Cartão do repositório MultiFreq"/></a>
+  <a href="https://github.com/smpsandro1239/Sistema-de-Faturacao-AT"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smpsandro1239&repo=Sistema-de-Faturacao-AT&hide_border=true" alt="Cartão do repositório Sistema de Faturação"/></a>
+  <a href="https://github.com/smpsandro1239/portfolio-dev-senior"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smpsandro1239&repo=portfolio-dev-senior&hide_border=true" alt="Cartão do repositório Portefólio Web"/></a>
+</div>
 
 ## 🧰 Tecnologias
 
