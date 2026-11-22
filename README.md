@@ -204,6 +204,16 @@ Portefólio construído com tecnologias Web nativas, com foco em apresentação 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smpsandro1239&hide_border=true&area=true" alt="Gráfico de atividade GitHub"/>
 
+### 🐍 Mapa de contribuições
+
+A animação é gerada diariamente pelo GitHub Actions e publicada no ramo `output`.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smpsandro1239/smpsandro1239/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smpsandro1239/smpsandro1239/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animação do mapa de contribuições GitHub" src="https://raw.githubusercontent.com/smpsandro1239/smpsandro1239/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 > Os cartões de estatísticas são gerados por serviços externos e podem ter limites de disponibilidade ou atualização. As métricas apresentadas não substituem a análise dos repositórios.
