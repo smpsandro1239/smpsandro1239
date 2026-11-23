@@ -9,7 +9,7 @@
 
 <h2>Transformo problemas em soluções digitais.</h2>
 
-[🇵🇹 Português](#-sobre-mim) · [🇬🇧 English](#english)
+[🇵🇹 Português](#-sobre-mim) · [🇬🇧 English](#english) · [🚀 Projetos](#-projetos-em-destaque) · [🧰 Tecnologias](#-tecnologias) · [🎓 Formação](#-formação-académica-e-certificação) · [🤝 Contacto](#-contacto-e-colaboração)
 
 </div>
 
@@ -30,6 +30,35 @@ Interessa-me acompanhar todo o ciclo de engenharia: compreender o problema, defi
 - 📡 **IoT:** integração entre firmware, dispositivos e plataformas Web.
 
 > **Transparência:** tecnologias e áreas apresentadas refletem projetos e aprendizagem prática. Não são uma escala de proficiência nem uma lista de certificações. Projetos em desenvolvimento não são apresentados como produtos concluídos.
+
+## 🚀 Em que me foco
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 IA aplicada
+Sistemas multiagente, integração de modelos, avaliação de resultados e exploração de Computer Vision.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏗️ Engenharia de software
+Arquitetura modular, APIs, qualidade, segurança, testes e manutenção de aplicações.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔌 Integração de sistemas
+Aplicações Web ligadas a dispositivos IoT, automação, serviços e infraestruturas.
+
+</td>
+</tr>
+</table>
+</div>
+
+O objetivo é transformar conhecimento técnico em **projetos demonstráveis**, com código organizado, documentação útil e decisões de engenharia justificadas.
 
 ## 🧭 Áreas de trabalho
 
@@ -274,6 +303,8 @@ Tenho interesse em projetos de desenvolvimento de software, integração de IA, 
 <a id="english"></a>
 
 ## 🇬🇧 English
+
+<h3 align="center">I turn problems into digital solutions.</h3>
 
 Software developer with a background in **Web Development and Multimedia**, focused on building software across **AI engineering, full-stack applications, automation and IoT**.
 
