@@ -7,7 +7,7 @@
 <a href="https://smpsandro1239.github.io/portfolio-dev-senior/"><img src="https://img.shields.io/badge/Portefólio-Explorar-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portefólio"/></a>
 <img src="https://img.shields.io/badge/Localização-Portugal-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Portugal"/>
 
-**Transformo problemas em aplicações, sistemas integrados e experiências digitais.**
+<h2>Transformo problemas em soluções digitais.</h2>
 
 [🇵🇹 Português](#-sobre-mim) · [🇬🇧 English](#english)
 
