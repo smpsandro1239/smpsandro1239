@@ -17,9 +17,11 @@
 
 ## 🇵🇹 Sobre mim
 
-Sou **Desenvolvedor Full-Stack e Formador Técnico certificado (CCP)**, com mais de 20 anos de experiência profissional em contexto industrial e de retalho no Continente / Sonae MC, em paralelo com o desenvolvimento de aplicações e produtos digitais. Estou a frequentar a **Licenciatura em Engenharia Informática na Universidade do Minho (Nível 6)**, depois de concluir o CTeSP em Desenvolvimento Web e Multimédia no IPCA.
+Sou **Desenvolvedor Full-Stack e Formador Técnico certificado (CCP)**, com vários anos de experiência profissional em contexto industrial e de retalho no Continente / Sonae MC, em paralelo com o desenvolvimento de aplicações e produtos digitais. 
+Estou a frequentar a **Licenciatura em Engenharia Informática na Universidade do Minho**, depois de concluir o CTeSP em Desenvolvimento Web e Multimédia no IPCA.
 
-O meu percurso combina experiência operacional, desenvolvimento de software e formação técnica. Trabalho em projetos que cruzam **engenharia de software, aplicações Full-Stack, inteligência artificial, automação, DevOps e IoT**.
+O meu percurso combina experiência operacional, desenvolvimento de software e formação técnica. 
+Trabalho em projetos que cruzam **engenharia de software, aplicações Full-Stack, inteligência artificial, automação, DevOps e IoT**.
 
 Interessa-me acompanhar todo o ciclo de engenharia: compreender o problema, definir requisitos, desenhar a arquitetura, implementar, testar, documentar, colocar em funcionamento e melhorar continuamente. Valorizo soluções seguras, observáveis, acessíveis, testáveis e sustentáveis.
 
@@ -277,7 +279,7 @@ A formação académica é complementada por experiência prática em programaç
 ## 🏆 Reconhecimento e participação
 
 - **1.º Prémio — Projeto IoT com ESP32 e LoRa**, Universidade do Minho.
-- **Orador convidado no MC Summit 2024 — Sonae MC**, no painel «Tecnologia de Informação em prol do Retalho e Indústria».
+- **Convidado no MC Summit 2024 — Sonae MC**, no painel «Tecnologia de Informação em prol do Retalho e Indústria».
 - Experiência de formação técnica, preparação de materiais pedagógicos e apoio ao desenvolvimento de competências em equipas.
 
 ## 🤝 Contacto e colaboração
